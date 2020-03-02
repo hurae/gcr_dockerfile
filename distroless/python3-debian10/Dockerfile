@@ -1,1 +1,1 @@
-FROM gcr.io/distroless/python3-debian10
+FROM gcr.io/distroless/python3

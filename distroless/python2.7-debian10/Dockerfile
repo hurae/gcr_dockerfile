@@ -1,1 +1,1 @@
-FROM gcr.io/distroless/python2.7-debian10
+FROM gcr.io/distroless/python2.7
